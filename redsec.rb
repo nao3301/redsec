@@ -69,7 +69,7 @@ set_ip
 while line = Readline.readline('~ ', true)
   case line
   when 'exit'
-    puts " hope you made a big loot!".red #
+    puts " hope you made a big loot!".red
     exit 0
   when '' , ' '
     puts "nothing to do"
