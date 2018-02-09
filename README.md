@@ -99,24 +99,28 @@ use arrowkeys to use history, use tap for auto completion
 ### Installation 
 
 Please mind that not erverything is finised and if you are not using kali some requirements are missing.
+
 But we are woking on the install script.
 #### Linux
 you need ruby and scapy
 
 git clone the repo
+
 sudo gem install net-ping
 
-##### run
+#### run
 
 ruby redsec.rb
 
 more details are comming soon
 #### Mac
 git clone the repo
+
 chmod +x install.sh
+
 ./install.sh
 
-##### run
+#### run
 
 ruby redsec.rb
 
