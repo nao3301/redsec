@@ -114,6 +114,7 @@ ruby redsec.rb
 
 more details are comming soon
 #### Mac
+you need homebrew
 git clone the repo
 
 chmod +x install.sh
