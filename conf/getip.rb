@@ -29,6 +29,10 @@ elsif (count > 1)
   puts "you are using more than one interface.\nwhitch one do you want to use?"
   print "[1-#{count}] "
   no = gets.to_i
+  if (no < 1  || no > count )
+    puts "your input is not valide"
+    no = gets.to_i
+  end
 
   count = 0
   addr_infos.each do |addr_info|
