@@ -25,7 +25,7 @@ print "               ////                                     \n".blue
 print "\n\n"
 sleep(0.5)
 print "                   +++++++++++++++++++++++++++++++++++++++                    \n".red
-print "                     Developed by: Luna ("+"nao3301 ".green + "&" + " lupa".green + ")\n"
+print "                     Developed by: Luna ("+"nao3301 ".green + "&" + " lupa1969".green + ")\n"
 print "                     Version: 0.2.X2 beta    \n"
 print "                     Modules: " + "#{$modules}\n".magenta
 print "                   +++++++++++++++++++++++++++++++++++++++                    \n".red

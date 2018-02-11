@@ -34,13 +34,13 @@
 
 
 ```
-Usage : [sudo] ruby redsec
+Usage : redsec
   ~ [command]
 
 ```
 
 Dedsec is a command line tool which can be used for pentesting.
-This tool supports Linux, and it is planed also for windows.
+This tool supports Linux, and it is planed also for Mac and windows.
 
 
 ###  help
@@ -98,7 +98,7 @@ use arrowkeys to use history, use tap for auto completion
 
 ### Installation 
 
-Please mind that not erverything is finised and if you are not using kali some requirements are missing.
+Please mind that not erverything is finised and some requirements could be missing.
 
 But we are woking on the install script.
 #### Linux
@@ -139,7 +139,7 @@ For any other questions contact [us](nao.lupa@gmail.com). We will try to help yo
 
 ### Credits
 
-Tool developed by [@nao3301](https://github.com/nao3301) & [@lupa](https://github.com/nao3301)
+Tool developed by [@nao3301](https://github.com/nao3301) & [@lupa1969](https://github.com/Lupa1969)
 
 #### Updates
 
