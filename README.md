@@ -132,9 +132,9 @@ more details are comming soon
 
 ### Community
 
-You are invited to use, optimize and change Dedsec! Just do whatever you want!
+You are invited to use, optimize and change redsec! Just do whatever you want!
 Because it is still in beta feel free to tell us any improvements, we will fix any issues as fast as possible.
-If you add anything to the code and you consider it worth sharing please send us an [email](nao.lupa@gmail.com). We are looking forward to it!
+If you add anything to the code and you consider it worth sharing please make an issue for it. We are looking forward to it!
 For any other questions contact [us](nao.lupa@gmail.com). We will try to help you as much as we can.
 
 ### Credits
