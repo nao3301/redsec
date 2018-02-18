@@ -76,7 +76,11 @@ while line = Readline.readline('~ ', true)
   else
     if (File.exist?("modules/#{line}.rb"))
       load "modules/#{line}.rb"
-      main
+      begin
+        main
+      rescue StandardError => e
+        puts "Some Error showed up: #{e}"
+      end
     else
       puts "command not known. please use help."
     end
