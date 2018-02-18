@@ -39,6 +39,8 @@ else
     CHECK=0
 fi
 # if you have a lanturtle or a wifipineapple -> git clone hak5 sript -> no - verschiebe modules
+# check and install nmap
+
 if CHECK==1; then
     echo "installation completed succsessfully"
 else
