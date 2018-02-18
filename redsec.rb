@@ -79,7 +79,7 @@ while line = Readline.readline('~ ', true)
       begin
         main
       rescue StandardError => e
-        puts "Some Error showed up: #{e}"
+        puts "Some Error showed up: #{e}".red
       end
     else
       puts "command not known. please use help."
